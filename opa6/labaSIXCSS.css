@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+.text{
+    margin: auto;
+    width: 50vw;
+    font-size: 0;
+}
+
+
+button{
+    
+    font-size:20px;
+    padding: 7px;
+    margin: 0;
+    width: calc(( 100vw / 2 ) / 3 );
+
+    text-align: center;
+    background: red;
+    color: white;
+    border-width: 1px;
+    border-color: #000;
+}
+.IMGB{
+    background-color: blue;
+    width: 25vw;
+    display: inline-block;
+    height: 27vw;
+
+}
+.IMGG{
+    background-color: green;
+    width: 25vw;
+    display: inline-block;
+    height: 27vw;
+
+}
+img{
+    width: 23vw;
+    height: 20vw;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
